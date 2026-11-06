@@ -1,0 +1,18 @@
+{
+  "product_id": "JLZ-EDU-AG-010",
+  "repository_name": "edu-curriculum-development-agent",
+  "product_type": "Agent",
+  "version": "1.0.0",
+  "package_path": "dist/edu-curriculum-development-agent-v1.0.0.zip",
+  "sha256": "F4D6B65400FBE3B07B417EA8E9E874B7AF4FCA123E3CE18A5E8FE2439042944F",
+  "bytes": 12024,
+  "entries": [
+    "edu-curriculum-development-agent/.codebuddy-plugin/plugin.json",
+    "edu-curriculum-development-agent/agents/edu-curriculum-development-agent.md",
+    "edu-curriculum-development-agent/avatars/expert.png",
+    "edu-curriculum-development-agent/README.md"
+  ],
+  "built_at": "2026-11-06T22:18:23.4384220+08:00",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED"
+}

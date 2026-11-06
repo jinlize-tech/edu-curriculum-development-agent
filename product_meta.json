@@ -1,0 +1,24 @@
+{
+  "number": 45,
+  "product_id": "JLZ-EDU-AG-010",
+  "chinese_name": "课程体系开发",
+  "english_name": "Curriculum Development Agent",
+  "repository_name": "edu-curriculum-development-agent",
+  "product_type": "Agent",
+  "category": "03 教学教研中心",
+  "version": "1.0.0",
+  "status": "PACKAGE_READY",
+  "workbuddy_validation": "NOT_VERIFIED",
+  "license": "Apache-2.0",
+  "baseline_tag": "education-product-baseline-v1.0.0",
+  "package_path": "dist/edu-curriculum-development-agent-v1.0.0.zip",
+  "calculator": false,
+  "core_input": "目标市场、课程定位、学习路径、课标或能力模型、班型、课时和交付资源",
+  "main_output": "课程能力模型、模块结构、课时蓝图、成果标准、开发排期和风险清单",
+  "package_entries": [
+    "edu-curriculum-development-agent/.codebuddy-plugin/plugin.json",
+    "edu-curriculum-development-agent/agents/edu-curriculum-development-agent.md",
+    "edu-curriculum-development-agent/avatars/expert.png",
+    "edu-curriculum-development-agent/README.md"
+  ]
+}
