@@ -6,7 +6,7 @@ displayName:
   zh: '课程体系开发'
 profession:
   en: 'Curriculum Development Agent'
-  zh: ''
+  zh: '课程体系开发专家'
 maxTurns: 50
 ---
 

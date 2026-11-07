@@ -1,6 +1,6 @@
 {
   "name": "edu-curriculum-development-agent",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Multi-step education operations assistant for Curriculum Development Agent.",
   "author": {
     "name": "广州金励泽科技服务有限公司",
@@ -17,7 +17,7 @@
   },
   "profession": {
     "en": "Curriculum Development Agent",
-    "zh": ""
+    "zh": "课程体系开发专家"
   },
   "displayDescription": {
     "en": "A multi-step education agent for Curriculum Development Agent, producing reviewable plans with human checkpoints.",
